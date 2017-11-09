@@ -1,3 +1,5 @@
+# 学习GITHUB
+
 # hello-word
 
 <<<<<<< HEAD
@@ -5,3 +7,4 @@
 =======
 远程第三次修改
 >>>>>>> refs/remotes/origin/master
+
